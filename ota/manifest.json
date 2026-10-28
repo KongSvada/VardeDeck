@@ -1,5 +1,6 @@
 {
-  "version": "0.5.4",
-  "firmware": "",
-  "notes": "Initial OTA setup for VardeDeck"
+  "version": "0.5.5",
+  "channel": "beta",
+  "firmware": "https://raw.githubusercontent.com/KongSvada/VardeDeck/main/ota/VardeDeck_v0_5_5_BETA.ino.bin",
+  "notes": "VardeDeck v0.5.5 BETA"
 }
