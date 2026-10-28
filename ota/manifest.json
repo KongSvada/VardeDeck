@@ -1,6 +1,6 @@
 {
-  "version": "0.6.1",
+  "version": "0.6.2",
   "channel": "beta",
-  "firmware": "https://raw.githubusercontent.com/KongSvada/VardeDeck/main/ota/VardeDeck_v0_6_1_BETA.ino.bin",
-  "notes": "VardeDeck v0.6.1 BETA - first OTA test"
+  "firmware": "https://raw.githubusercontent.com/KongSvada/VardeDeck/main/ota/VardeDeck_v0_6_2_BETA.ino.bin",
+  "notes": "VardeDeck v0.6.2 BETA - improved OTA progress and automatic Setup AP after manual update"
 }
