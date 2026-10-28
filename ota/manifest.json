@@ -1,6 +1,6 @@
 {
-  "version": "0.5.5",
+  "version": "0.6.0",
   "channel": "beta",
-  "firmware": "https://raw.githubusercontent.com/KongSvada/VardeDeck/main/ota/VardeDeck_v0_5_5_BETA.ino.bin",
-  "notes": "VardeDeck v0.5.5 BETA"
+  "firmware": "https://raw.githubusercontent.com/KongSvada/VardeDeck/main/ota/VardeDeck_v0_6_0_BETA.ino.bin",
+  "notes": "VardeDeck v0.6.0 BETA - OTA support and VardeDeck logo page"
 }
